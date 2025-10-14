@@ -1,10 +1,3 @@
-//
-//  Assignment2_20336905App.swift
-//  Assignment2_20336905
-//
-//  Created by Alexander Hejaij on 25/9/2025.
-//
-
 import SwiftUI
 import CoreData
 
